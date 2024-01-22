@@ -1,8 +1,8 @@
 # Hi there, I'm jmveigac 👋
 
-I have been a software developer since 2010.
+I'm software developer since 2010.
 
-In 2018, I created my GitHub account to practice with new projects in my private area and this 2024, I have set out to give more visibility to the code I have developed. So, throughout this year, I will be uploading tools that I have used and do not have in any repository, and those that I have had here but privately.
+In 2018, I created my GitHub account to practice on new projects in my private area and on 2024, I have set out to give more visibility to the code I have developed. So, throughout this year, I will be uploading tools that I have used and do not have in any repository, and those that I have had here but privately.
 
 ## Goals for 2024
 
@@ -140,4 +140,4 @@ Here are some ideas to get you started:
 
 Credit: [jmveigac](https://github.com/jmveigac)
 
-Last Edited on: 21/01/2024
+Last Edited on: 23/01/2024
