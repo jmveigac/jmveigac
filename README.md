@@ -1,8 +1,8 @@
 # Hi there, I'm jmveigac 👋
 
-I have been a software developer since 2010.
+I'm software developer since 2010.
 
-In 2018, I created my GitHub account to practice with new projects in my private area and this 2024, I have set out to give more visibility to the code I have developed. So, throughout this year, I will be uploading tools that I have used and do not have in any repository, and those that I have had here but privately.
+In 2018, I created my GitHub account to practice on new projects in my private area and on 2024, I have set out to give more visibility to the code I have developed. So, throughout this year, I will be uploading tools that I have used and do not have in any repository, and those that I have had here but privately.
 
 - 🔭 I’m currently working on web development, focusing on the frontend with Next.js, React, and Apollo Client. The backend consists of an API built with GraphQL and Prisma, all implemented in TypeScript.
 - 🌱 I’m currently learning Python and Ruby, while also working on certifying my tech stack.
@@ -32,7 +32,6 @@ In 2018, I created my GitHub account to practice with new projects in my private
 **jmveigac/jmveigac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
