@@ -4,20 +4,36 @@ I have been a software developer since 2010.
 
 In 2018, I created my GitHub account to practice with new projects in my private area and this 2024, I have set out to give more visibility to the code I have developed. So, throughout this year, I will be uploading tools that I have used and do not have in any repository, and those that I have had here but privately.
 
+- 🔭 I’m currently working on web development, focusing on the frontend with Next.js, React, and Apollo Client. The backend consists of an API built with GraphQL and Prisma, all implemented in TypeScript.
+- 🌱 I’m currently learning Python and Ruby, while also working on certifying my tech stack.
+
 ## Goals for 2024
 
 - [x] Create my presentation and my goals for the new year
-- [ ] Upload all the tools that I have scattered
+- [x] Create base React TypeScript Electron
+- [x] Update some tools
+- [x] Learn Python
+- [x] Create new repositories with the tools that will be useful to me throughout the year
+
+## Goals for 2025
+
+- [x] Create base Rest API .Net
+- [x] Create base API Python FastApi
+- [ ] Continue learning Python
+- [ ] Learn Ruby
+- [ ] Create repository with Github Actions
+- [ ] Create repository for Docker
+- [ ] Create repository with AngularJS
+- [ ] Update some tools
+- [ ] Upload tools that I have scattered
 - [ ] Create new repositories with the tools that will be useful to me throughout the year
-- [ ] Learn Python and translate some of the tools
 
 <!--
 **jmveigac/jmveigac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -47,7 +63,7 @@ Here are some ideas to get you started:
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat"></a>
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat"></a>
     <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?logo=SQL&logoColor=fff&style=flat"></a>
-    <!-- <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a> -->
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
 </p>
 
 #### Markup and Style Languages
@@ -140,4 +156,4 @@ Here are some ideas to get you started:
 
 Credit: [jmveigac](https://github.com/jmveigac)
 
-Last Edited on: 21/01/2024
+Last Edited on: 16/03/2025
