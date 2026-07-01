@@ -16,11 +16,11 @@ This profile is a small public snapshot of how I build things: base projects, ex
 ---
 
 <div align="center">
-  <img width="40%" align="center"alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jmveigac&theme=github_dark" />
+  <img width="40%" align="center" alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jmveigac&theme=github_dark" />
   <img width="40%" align="center" alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jmveigac&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </div>
 
-## My Tech Stack:
+## Tech Stack
 
 I mostly work across frontend, backend, APIs, tooling, and Linux-based environments.
 
@@ -35,7 +35,7 @@ I mostly work across frontend, backend, APIs, tooling, and Linux-based environme
 │   ├── Python
 │   └── SQL
 │
-├── frontend
+├── frontend & mobile
 │   ├── HTML / CSS
 │   ├── React
 │   ├── Next.js
