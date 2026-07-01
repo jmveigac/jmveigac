@@ -17,8 +17,11 @@ This profile is a small public snapshot of how I build things: base projects, ex
 
 <div align="center">
   <img width="40%" align="center" alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jmveigac&theme=github_dark" />
-  <img width="40%" align="center" alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jmveigac&layout=compact&theme=chartreuse-dark&hide_border=true" />
+  <img width="40%" align="center" alt="Top Languages by Repository" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jmveigac&theme=github_dark" />
 </div>
+<p align="center">
+  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=jmveigac&theme=github-compact&hide_border=true" />
+</p>
 
 ## Tech Stack
 
